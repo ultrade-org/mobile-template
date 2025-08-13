@@ -1,6 +1,7 @@
 # React Native Whitelabel Template Project
 
-A React Native template project designed for easy whitelabel customization. This template provides a solid foundation that can be quickly modified for different brands and applications.
+A React Native Ultrade webapp wrapper template project designed for easy whitelabel customization. This template provides a simple foundation that can be quickly modified for different brands and applications.
+For more detailed instruction, check the docs folder.
 
 ## 🚀 Getting Started
 
